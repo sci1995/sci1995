@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h2 align="left">Hi 👋, I'm Aisha Beltagy - a Bioinformatics Analyst and Software Developer combining scientific expertise with advanced programming skills to drive innovation in healthcare and research.</h2>
 
